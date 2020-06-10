@@ -20,6 +20,7 @@ pipeline
             {
                 script
                 {
+                    
                     sh label: '', script: 'mvn clean'
                 }
             }
