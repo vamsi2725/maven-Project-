@@ -18,6 +18,7 @@ stage("maven clean ")
 steps
 {
 script
+  
 {
 sh label: '', script: 'mvn clean'
 }
