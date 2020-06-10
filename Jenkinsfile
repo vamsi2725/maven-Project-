@@ -9,7 +9,6 @@ steps
 {
 script
 {
-  
 git credentialsId: 'pdaram8@gmail.com', url: 'https://github.com/kumardaram76/Pipeline-Jenkins.git'
 }
 }
